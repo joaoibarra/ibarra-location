@@ -20,10 +20,8 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
 
     var items: LiveData<PagedList<Place>>? = null
     var factory: DataSource.Factory<Int, Place>? = null
-    val activityToStart = MutableLiveData<String>()
     var latitude: Double? = null
     var longitude: Double? = null
-    val endOfList = MutableLiveData<Boolean>()
     val error = MutableLiveData<Boolean>()
     val progress= MutableLiveData<Boolean>()
     var pageToken: String? = ""
@@ -46,13 +44,13 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
                     latitude.toString().plus(",").plus(longitude.toString())
                 )
                     .subscribeOn(Schedulers.io())
-                    .doOnSubscribe {progress.postValue(true)}
-                    .doOnSuccess{progress.postValue(false)}
-                    .delay(500, TimeUnit.MILLISECONDS)
+                    .doOnSubscribe { showProgress() }
+                    .doOnSuccess{ hideProgress() }
+                    .delay(1000, TimeUnit.MILLISECONDS)
                     .subscribe({
                         error.postValue(false)
-                        dao.insertAll(Place.toList(it.results, category))
                         pageToken = it.nextPageToken
+                        dao.insertAll(Place.toList(it.results, category))
                     }, {
                         error.postValue(true)
                     })
@@ -60,7 +58,7 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
         }
     }
 
-    fun initPagedList() {
+    private fun initPagedList() {
         factory = dao.findPlaceByType(category)
         factory?.let {
             val pagedListBuilder: LivePagedListBuilder<Int, Place>  = LivePagedListBuilder<Int, Place>(it,
@@ -69,6 +67,16 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
                 .setBoundaryCallback(PlaceBoundaryCallback(this))
                 .build()
         }
+    }
+
+    private fun showProgress() {
+        if(items?.getValue().isNullOrEmpty()) {
+            progress.postValue(true)
+        }
+    }
+
+    private fun hideProgress() {
+        progress.postValue(false)
     }
 
     fun updateLocation(latitude: Double, longitude: Double) {
@@ -88,9 +96,5 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
     override fun onCleared() {
         disposables.clear()
         super.onCleared()
-    }
-
-    fun endList() {
-        endOfList.postValue(true)
     }
 }
