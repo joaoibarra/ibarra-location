@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Ibarra Location</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps">Places</string>
+
+    <string name="tab_cafe">Cafe</string>
+    <string name="tab_restaurant">Restaurant</string>
+    <string name="tab_bar">Bar</string>
+
+
+    <string name="error_message">Sorry, we are in outer space</string>
+    <string name="error_try_again">Try again</string>
 </resources>
