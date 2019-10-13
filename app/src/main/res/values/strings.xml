@@ -9,4 +9,7 @@
 
     <string name="error_message">Sorry, we are in outer space</string>
     <string name="error_try_again">Try again</string>
+
+    <string name="open">Open Now</string>
+    <string name="close">Closed</string>
 </resources>
