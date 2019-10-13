@@ -1,0 +1,952 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CrQCIwEAAEXSRPpacPUlM4siiTMJ3bjeyF0d-4Fmp8y8Bg4Y68ZqxDLHgIY-xv-iXfLwmWiHAA1Fdxtp14247IzqLTNcly2JsdtNd01keG3LUm42eA2oNMelACAlaKrN3VbwSRfNtDYoBj_sYpRL_Afdebsf5FKGQRZEZY8NbWoTZ0R4fQ-l7Jm-xKddo10gzdWCEjBFtwwsgk7576gPaXsdWFzKULQMWGsysZV2KjagXB4rzS-PFfLAo4gIgngrZJxX4KTlbLVaobG38U2OKK-BQc_NUnwLZPrXXNwsnv1bo85d8w-jMPYLb4bDigcYWXX-bXHUgHCgdu2GDXjdaw96KBLdvIsrtK-oDME3FbLJhp1s3BbVMOSQFaFEQ_r-EBM6vLzsm2nIOtsrP9-oTZIRVfvY9xYSEADAZu9mXWnuInoSlJA_jPgaFBfrhcjA-7SlDw1tVxecBbY8UTvp",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5677865,
+          "lng": -46.65818470000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5664641197085,
+            "lng": -46.65686381970851
+          },
+          "southwest": {
+            "lat": -23.56916208029151,
+            "lng": -46.6595617802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "a1b91af3cf617717ce40f3378a9cf17454a1cdbe",
+      "name": "Boragó Natural Fresh Food",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108333612145234036422/photos\"\u003eBoragó Natural Fresh Food\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAALKBm8U63o__TTbin2r-AhZD9PPxpcMr_dYibMHcvku1P1ZoTQlER-g_0eHsTwxp1vxHaUEQctiFbWZiIiipNb4RaYNiz1rRUGYSXfhb2AYoGu1OU6VqVaUt-liuijy2XEhCHbmcCg3ToPcjxu2LGZIcyGhT37QGei1tPY4oxEnTjfwPh1dm9fQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJy8yCSldZzpQRtNU7kE1fJzE",
+      "plus_code": {
+        "compound_code": "C8JR+VP Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+VP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJy8yCSldZzpQRtNU7kE1fJzE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "Rua José Maria Lisboa, 668 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.566403,
+          "lng": -46.6580659
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5650895697085,
+            "lng": -46.6567542697085
+          },
+          "southwest": {
+            "lat": -23.5677875302915,
+            "lng": -46.6594522302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8ad3f429059aad301328549e309481e127f53ed8",
+      "name": "Lanches do Corredor",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2076,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117322466408741318969/photos\"\u003eAline Costa\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAtEhj2HBhYat1I527C1Zn8GTJrnJ9nRhy0s1-ddg8G95BdhSrQtNmP-K3US6w3_R4w8VJQGWW-Y9fs9n8PnbRY3usJqND9IKI62bkx5yP566cHkXzcF6OfXdLHOZS39mUEhDxG8oTIB2A8uJ1FSwImxBCGhRE6UulNsg4ufc2Ru9r_BalQWY_fQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJiyiYhMVZzpQRffFpJyqDR2c",
+      "plus_code": {
+        "compound_code": "C8MR+CQ São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8MR+CQ"
+      },
+      "rating": 4.1,
+      "reference": "ChIJiyiYhMVZzpQRffFpJyqDR2c",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Alameda Franca, 324 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5673988,
+          "lng": -46.65761579999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5661101197085,
+            "lng": -46.6561922197085
+          },
+          "southwest": {
+            "lat": -23.5688080802915,
+            "lng": -46.65889018029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "6a8472f62946bee5b3d5cbef03e7e87f2d5c0581",
+      "name": "B.LEM Padaria Portuguesa",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 672,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100066580586606680306/photos\"\u003eB.LEM\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAA2iRJMLYKh-5D-mhZJPQF5XJn8TkMvKReDk4rSsZ65Vcmw1s6LPipSI2fykiYOaXO2234Z-bftZRXAKCZ-dj3ukrdmX30_C-6KsqlTnnQa-VgZA8fs7JJfQEa2NYuDD0DEhBRCE9YMcgSXAh0ROg4p_z6GhRvm_lxrLFYw7lpRZ3M8LS2zO3nfQ",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJSzM3usVZzpQRyrXj3VkENpY",
+      "plus_code": {
+        "compound_code": "C8MR+2X Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8MR+2X"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJSzM3usVZzpQRyrXj3VkENpY",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 145,
+      "vicinity": "Rua Pamplona, 1180 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.567877,
+          "lng": -46.657991
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5665680697085,
+            "lng": -46.6565935697085
+          },
+          "southwest": {
+            "lat": -23.5692660302915,
+            "lng": -46.6592915302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "648760ff759933ca98f4a480d06ac19df9d6a9af",
+      "name": "Lanchonete Sempre Juntos",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJyS9nrsVZzpQRKhQ59PCpvZw",
+      "plus_code": {
+        "compound_code": "C8JR+RR Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+RR"
+      },
+      "rating": 1,
+      "reference": "ChIJyS9nrsVZzpQRKhQ59PCpvZw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Rua Pamplona, 1248 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.566593,
+          "lng": -46.65926329999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5653317197085,
+            "lng": -46.6580080197085
+          },
+          "southwest": {
+            "lat": -23.5680296802915,
+            "lng": -46.6607059802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id": "c4ccaeb97644e3d187f38ce2d698d199ea609b9c",
+      "name": "Coffee house",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 630,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110407036199879474895/photos\"\u003eCafé da Casa\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAyj_qwX4fUIq6QdrrGQrPIIHWLJM3SI_Q6W8lI_98Bzygr0C4kTiyAndOFAwyxVElM11kg-PkCQdswA2W4M9td6oFoSpCET5NZ7pevwdmoBAtboa7MPSHRAn9C1lh-bLGEhDb1cq9h1-IWo0-A7HRFr1oGhQoh-AMi7FAQbIWzYB0TS95kNsxog",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJyfXZZsVZzpQRWdxrla9T7DE",
+      "plus_code": {
+        "compound_code": "C8MR+97 Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8MR+97"
+      },
+      "rating": 4.6,
+      "reference": "ChIJyfXZZsVZzpQRWdxrla9T7DE",
+      "scope": "GOOGLE",
+      "types": [
+        "art_gallery",
+        "cafe",
+        "museum",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 72,
+      "vicinity": "Rua José Maria Lisboa, 838 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5679387,
+          "lng": -46.6579743
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5666121197085,
+            "lng": -46.6565981697085
+          },
+          "southwest": {
+            "lat": -23.5693100802915,
+            "lng": -46.6592961302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "0dc4b22b1548db9cf32f4fc43742fe1fe82b66a2",
+      "name": "Lanches Algosto",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106141340586971229867/photos\"\u003eValmir Luis Alamino\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAA8FC7E1HZ4xx0xRnYRiQf5lwygmaeA-QVEUBYI70LREX4f0G62dGxoSsTEm69gztq7ko_VOs2uvlqwNezl4Dhyonaft8EbYO4N-lsunmb2GqH_6pVEwNXumvIZy3e9YDUEhD1PaCqgxtPsMx04ANZ9mprGhTMTBbpoJrOO6mfcO-rAMCw64Cl_w",
+          "width": 2336
+        }
+      ],
+      "place_id": "ChIJr87UrcVZzpQRweXcM1l5HA0",
+      "plus_code": {
+        "compound_code": "C8JR+RR São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JR+RR"
+      },
+      "rating": 3.6,
+      "reference": "ChIJr87UrcVZzpQRweXcM1l5HA0",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "Rua Pamplona, 1250 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5670568,
+          "lng": -46.6572987
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5657537197085,
+            "lng": -46.6560002697085
+          },
+          "southwest": {
+            "lat": -23.5684516802915,
+            "lng": -46.6586982302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "36644f589e89af64dc17e4e28d164bbba297dff6",
+      "name": "Lanchonete Luar da Franca",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116390223937818301861/photos\"\u003eAdilson Soares\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAW2CVNZhJBnjy4qQPKGJZJJVUAO7V0hgT9SNNfC0Gt2icxfb6R1mT115aKwNQT_2K5CmwmBrEW8rN_QE2C0dKBAN7LxufRbjVLKHBcrQGqAXkj2YBkxm7gNkX4WHOLthyEhCDbHsvBMeDafnjZRa087-RGhQc4IRCId1duian2FNo06tPy4Ywwg",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJI7ybuMVZzpQRqakLDtmJjNE",
+      "plus_code": {
+        "compound_code": "C8MV+53 São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8MV+53"
+      },
+      "rating": 4.199999999999999,
+      "reference": "ChIJI7ybuMVZzpQRqakLDtmJjNE",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "Alameda Franca, 235 - Cerqueira César, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5667805,
+          "lng": -46.659598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5653947197085,
+            "lng": -46.6582096697085
+          },
+          "southwest": {
+            "lat": -23.5680926802915,
+            "lng": -46.6609076302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "7bade32380733116a1175d544f466ec0b61a85d5",
+      "name": "Due Maestà",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102570428686848838530/photos\"\u003eSandra Kramer\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAzAnZLqI1HXvquGTjIUGm0NUYqS2MaPwei6qaWVPGSLYLfm7ZIHHD9mWO1n5XR0u4BMIMdWKbAnserg3oHaMdjE2ZA9r4DKpZaH-xnCP6B-EXmQ-AcrZX51tHGEUetaEZEhBjTHgOjRwQjx6hMoV9CpHVGhSRkvFcMNBZ1I56GNx1WcTLG9hk2g",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJwVr9ZsVZzpQRsx3egB-aoyQ",
+      "plus_code": {
+        "compound_code": "C8MR+75 São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8MR+75"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJwVr9ZsVZzpQRsx3egB-aoyQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 135,
+      "vicinity": "Rua José Maria Lisboa, 849 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5680321,
+          "lng": -46.6576826
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.56676351970849,
+            "lng": -46.65641566970851
+          },
+          "southwest": {
+            "lat": -23.5694614802915,
+            "lng": -46.6591136302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b54e081b970caff08e94d0e3dedfff4c9b40bc3a",
+      "name": "PG Lisboa",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104160947673579909374/photos\"\u003eSergio Ishikawa\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAA755REvz9AechaDEazajk8eSwdGWDQ8y69NTx3UUmdCuln85ZAN2ylfDK2eLnzeu5RyPtpbhrvYgF3xVKxQbxw6jsqSRU9FLsBnxrmUhNM3Tc4uf80nbkGxJltMnOwEC2EhCUHejvwI1VgBM_mXWtuH9ZGhTryBu8UatOOlhCZxi9mJdVqZdBRg",
+          "width": 1908
+        }
+      ],
+      "place_id": "ChIJhRKwIH1ZzpQR_qWR2yD81L0",
+      "plus_code": {
+        "compound_code": "C8JR+QW São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JR+QW"
+      },
+      "rating": 3,
+      "reference": "ChIJhRKwIH1ZzpQR_qWR2yD81L0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Rua José Maria Lisboa, 618 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5682915,
+          "lng": -46.6581221
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5669209697085,
+            "lng": -46.65679976970851
+          },
+          "southwest": {
+            "lat": -23.5696189302915,
+            "lng": -46.65949773029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8900e737a370f8dcfd2a1205ae4e1469c5cbc02b",
+      "name": "Restaurante a Brasa",
+      "place_id": "ChIJAyT5CcZZzpQRtnhmoslKQ_s",
+      "plus_code": {
+        "compound_code": "C8JR+MQ Cerqueira César, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+MQ"
+      },
+      "rating": 3,
+      "reference": "ChIJAyT5CcZZzpQRtnhmoslKQ_s",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Rua Pamplona, 1285 - Cerqueira César, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5675021,
+          "lng": -46.65716399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5661531197085,
+            "lng": -46.65581501970849
+          },
+          "southwest": {
+            "lat": -23.56885108029151,
+            "lng": -46.65851298029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b8a21878d9813fe2a3f046d7ae0750ca31c9c78d",
+      "name": "Estella Burger (em construção)",
+      "place_id": "ChIJ5dYH_cdZzpQRHiAf7FDpgEc",
+      "plus_code": {
+        "compound_code": "C8JV+X4 São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JV+X4"
+      },
+      "reference": "ChIJ5dYH_cdZzpQRHiAf7FDpgEc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Alameda Franca, 181 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5683584,
+          "lng": -46.65802499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5669511197085,
+            "lng": -46.6567480697085
+          },
+          "southwest": {
+            "lat": -23.5696490802915,
+            "lng": -46.6594460302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e62bbe89854cb283a7d45867a2d60eb7cc241087",
+      "name": "Alfama dos Marinheiros",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103241960898914537738/photos\"\u003eDiego Giron\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAA2YfcVLRyZB9hXfHSvZaUXsbYM9ZDksmXWzErDsiJIpfowb4BROUSVI_0oVaMkBVWUsfr8W7-XgIJAULiCB2Ecoih1ToIHkq71L5UMdc15hDV10Pw3nqIye10D80L3O--EhAyHNPlm6iIxo7G8vycLUx9GhRtDyRTSVg83IwhXSvRZ5cx-Qc8ow",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ9bGxrMVZzpQRgIHEvMMI3mE",
+      "plus_code": {
+        "compound_code": "C8JR+MQ São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JR+MQ"
+      },
+      "price_level": 4,
+      "rating": 4.399999999999999,
+      "reference": "ChIJ9bGxrMVZzpQRgIHEvMMI3mE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 394,
+      "vicinity": "Rua Pamplona, 1285 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5683413,
+          "lng": -46.65789929999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5669407197085,
+            "lng": -46.6564976697085
+          },
+          "southwest": {
+            "lat": -23.5696386802915,
+            "lng": -46.6591956302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "b8a8398f5425b96d50c69448890bfa52ce09ef41",
+      "name": "Vita Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104717981063001790373/photos\"\u003eanna\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAIsQ6o0hf7ANJopgW8-Jqa6Vnej9YkoxBJDR7T7ehfZATuiXzgeOWOlXp46WhqsUQd6rBMiAGOwuadb0njFvwIQeybgp2YL6MJHv0JuBzg38ACyRWxTfLj8-3GCwjh8W9EhBgHchZMWj2nYr1KWLSZ5xYGhQ-tPg4bp04ZtGxhiCMNgO60AuShw",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJvYihTcRZzpQRqrgkybssO60",
+      "plus_code": {
+        "compound_code": "C8JR+MR São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JR+MR"
+      },
+      "rating": 4.199999999999999,
+      "reference": "ChIJvYihTcRZzpQRqrgkybssO60",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 36,
+      "vicinity": "Rua José Maria Lisboa, 599 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5683421,
+          "lng": -46.65789969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5669412197085,
+            "lng": -46.6564977697085
+          },
+          "southwest": {
+            "lat": -23.5696391802915,
+            "lng": -46.6591957302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "8c00c429650ae1959e473666c2c4050c2ada5b1f",
+      "name": "Art Vie Pizzaria",
+      "place_id": "ChIJab0mTcRZzpQRlcbSNqLJ_-Q",
+      "plus_code": {
+        "compound_code": "C8JR+MR São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JR+MR"
+      },
+      "rating": 4,
+      "reference": "ChIJab0mTcRZzpQRlcbSNqLJ_-Q",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Rua José Maria Lisboa, 599 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5676394,
+          "lng": -46.65708900000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5662352697085,
+            "lng": -46.65568416970851
+          },
+          "southwest": {
+            "lat": -23.5689332302915,
+            "lng": -46.65838213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "c6938c3fda7902d13392b5dc755b32f91d20b5c6",
+      "name": "Monte Verde Pizzaria",
+      "place_id": "ChIJfSOrzsVZzpQRlvBoYEwLwvY",
+      "plus_code": {
+        "compound_code": "C8JV+W5 Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JV+W5"
+      },
+      "rating": 4.399999999999999,
+      "reference": "ChIJfSOrzsVZzpQRlvBoYEwLwvY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "Alameda Franca, 161 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5676079,
+          "lng": -46.6570501
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5662174697085,
+            "lng": -46.6556671197085
+          },
+          "southwest": {
+            "lat": -23.5689154302915,
+            "lng": -46.6583650802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "d6abf5c2ab8d0bb5deb86cb52b8075ee705fe986",
+      "name": "Monte Verde Pizzaria & Cantina",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107992270182570442306/photos\"\u003eJeromy Fortes\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAswdEKSi0BZawcqhz_GeI5rz4MjIDYvpvG5lfnl8FslCqOzP53MMnj-jmMxH774zhcPGQCVfNbIiwBpkB9UvOFBlRXOswmbzj57lvMl3vKVK90q6Src9JeUcYxuUNLWVXEhCv4oyi2S3QT9khMXXGgeBsGhQ2YlmbmZY4IgzSoRHjojxtfVcEQQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ-4sBzMVZzpQRcrTx1CZwznw",
+      "plus_code": {
+        "compound_code": "C8JV+X5 São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8JV+X5"
+      },
+      "rating": 4.399999999999999,
+      "reference": "ChIJ-4sBzMVZzpQRcrTx1CZwznw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "Alameda Franca, 161 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5684786,
+          "lng": -46.6582157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5670883697085,
+            "lng": -46.65691766970849
+          },
+          "southwest": {
+            "lat": -23.5697863302915,
+            "lng": -46.65961563029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "34367c40ac6ac55f103b56805f9085528a715437",
+      "name": "Restaurante A1 Gastronomia",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107307747419503262336/photos\"\u003eDiego Pessoa\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAApjukGNm2eUwLEFB749gYhxG_7RhOPCIQRN7zfkh3P2xL1jxZDBKHaWePd85K8sQhLJfzlR3tm5fMHSxRpNEGz0a3WOOJETUBOKcJJprfAS6CAXYIFrhySCG3kfcHcYv2EhAT_4gOOmYXqA_Uzv-SeK2ZGhS6n0Xm7ZoeX-jyLEhG_ifEYn2ERQ",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJlR37VMRZzpQRIYnAVpXSr_M",
+      "plus_code": {
+        "compound_code": "C8JR+JP Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+JP"
+      },
+      "rating": 4.3,
+      "reference": "ChIJlR37VMRZzpQRIYnAVpXSr_M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "Rua Pamplona, 1317 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5684786,
+          "lng": -46.6582157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5670883697085,
+            "lng": -46.65691766970849
+          },
+          "southwest": {
+            "lat": -23.5697863302915,
+            "lng": -46.65961563029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id": "e0fbabfcee2557d71f74f537cf5e241d0d0aa06d",
+      "name": "A1 Gastronomia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109777750292533592736/photos\"\u003eA1 Gastronomia\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAArr1mzv5TTyfcjYs2Rd0R44iJX0F2UlB4kJ7TyPJZiCtsVtN6G0g6Cv098IiTM9LCZTuqDA6zX1hFnfS4hrS0PBVyztOoMhf9QqxfaxmBNN_rTy2u_LZoXhyOypd51FkyEhA6VR1r5-SRLVU7WxhSVjWSGhRcILOVPvrH9sAd8lEQ3D5KhEZi4Q",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJvaHe2zZZzpQRqfGV-aDk660",
+      "plus_code": {
+        "compound_code": "C8JR+JP Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+JP"
+      },
+      "reference": "ChIJvaHe2zZZzpQRqfGV-aDk660",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Rua Pamplona, 1317 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.5684832,
+          "lng": -46.6582125
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5671177697085,
+            "lng": -46.65694216970849
+          },
+          "southwest": {
+            "lat": -23.5698157302915,
+            "lng": -46.65964013029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id": "54308c3fcf8525625056fe92730e0ff9e6c03e11",
+      "name": "Mercure Sao Paulo Pamplona Hotel",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111141788887096824865/photos\"\u003eEliane Serodio\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAA0TnHz5znu-10AasdrdGncUf96O_2NA1IDSaDjmk8dYtmW7piVz-AvLANcVI55YKPTP27EbAu2aTH89IErgucs6MrrFE6DCgKGCC8YRQ6Au-pgdI22fKjndEm6E86Yzu8EhBPVqC2zOqhHhXgFmugicdNGhSfpfP94rkPyXeDDcP1mGBdtw2T7Q",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJzZ_vVMRZzpQRxOVAOkA6igs",
+      "plus_code": {
+        "compound_code": "C8JR+JP Jardim Paulista, São Paulo - State of São Paulo, Brazil",
+        "global_code": "588MC8JR+JP"
+      },
+      "rating": 4.3,
+      "reference": "ChIJzZ_vVMRZzpQRxOVAOkA6igs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 624,
+      "vicinity": "Rua Pamplona, 1315 - Jardim Paulista, São Paulo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": -23.56588649999999,
+          "lng": -46.6590992
+        },
+        "viewport": {
+          "northeast": {
+            "lat": -23.5644718697085,
+            "lng": -46.6576776197085
+          },
+          "southwest": {
+            "lat": -23.5671698302915,
+            "lng": -46.6603755802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id": "c44ed091d54e791f083c62ce7ad1bba37216ca1c",
+      "name": "Gelato Italiano project",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3744,
+          "html_attributions": [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108203161432980595176/photos\"\u003eProjeto gelato Escola de sorvete Italiano\u003c/a\u003e"
+          ],
+          "photo_reference": "CmRaAAAAXjqgewI_TgcHrVWIzU-OlW1k3qR4y4ITcr398UtZDWYkQusySkja2u_T03HpOpaNGzHEt0yhUFtQnYD0TUpmrZ0PKLP_3MDutO1XuTSiUqkOfsc4IW82gqLPnV8118RbEhDwwh3mI4Q6d88-9BG9nJ7yGhSNxsMyUmshyRzm8XHxKWJmO2KCNQ",
+          "width": 4961
+        }
+      ],
+      "place_id": "ChIJ1bCD2-5czpQRdNFqYGhFIgg",
+      "plus_code": {
+        "compound_code": "C8MR+J9 São Paulo, State of São Paulo, Brazil",
+        "global_code": "588MC8MR+J9"
+      },
+      "reference": "ChIJ1bCD2-5czpQRdNFqYGhFIgg",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "Alameda Franca, 447 - Jardim Paulista, São Paulo"
+    }
+  ],
+  "status": "OK"
+}

@@ -23,7 +23,7 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:id="@+id/iv_news_image"
+                android:id="@+id/iv_place_image"
                 android:layout_width="0dp"
                 android:layout_height="200dp"
                 android:adjustViewBounds="true"
@@ -43,19 +43,19 @@
 
             <androidx.appcompat.widget.AppCompatTextView
                 style="@style/TextListTitle"
-                android:id="@+id/article_name"
+                android:id="@+id/place_name"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="@dimen/margin_m"
                 android:gravity="start|center_vertical"
                 android:text="@{item.name}"
-                app:layout_constraintTop_toBottomOf="@+id/iv_news_image"
+                app:layout_constraintTop_toBottomOf="@+id/iv_place_image"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 tools:text="LOL"/>
 
             <androidx.appcompat.widget.AppCompatTextView
-                android:id="@+id/article_author"
+                android:id="@+id/place_rating"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/margin_s"
@@ -63,8 +63,8 @@
                 android:layout_marginEnd="@dimen/margin_m"
                 android:layout_marginBottom="@dimen/margin_m"
                 android:gravity="start|center_vertical"
-                android:text="@{item.rating.toString()}"
-                app:layout_constraintTop_toBottomOf="@+id/article_name"
+                android:text='@{String.format("%.2f",item.rating).replace(".", ",")}'
+                app:layout_constraintTop_toBottomOf="@+id/place_name"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 tools:text="LOL"/>
@@ -80,7 +80,7 @@
                 android:layout_marginBottom="@dimen/margin_m"
                 android:gravity="start|center_vertical"
                 android:text="@{item.userRatingsTotal.toString()}"
-                app:layout_constraintTop_toBottomOf="@+id/article_author"
+                app:layout_constraintTop_toBottomOf="@+id/place_rating"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 tools:text="LOL"/>

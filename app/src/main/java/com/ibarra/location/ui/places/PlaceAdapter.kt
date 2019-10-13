@@ -33,7 +33,7 @@ class PlaceAdapter (private val vm: PlaceViewModel) :
             holder.binding?.apply{
                  item = place
                 viewModel = vm
-                loadImage(ivNewsImage, place.photo)
+                loadImage(ivPlaceImage, place.photo)
             }
         }
     }
