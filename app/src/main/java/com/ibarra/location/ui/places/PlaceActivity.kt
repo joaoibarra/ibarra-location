@@ -81,6 +81,5 @@ class PlaceActivity : AppCompatActivity() {
         }?.addOnFailureListener {
 
         }
-
     }
 }
