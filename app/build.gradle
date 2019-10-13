@@ -19,16 +19,23 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
+    dataBinding {
+        enabled = true
+    }
+
     buildTypes {
         debug {
             buildConfigField "String", "BASE_URL", '"https://maps.googleapis.com"'
-            buildConfigField "String", "API_KEY", '"AIzaSyBA07TnDutGHDHL5YPjLxZLTFgwy3aB3F8"'
+            buildConfigField "String", "API_KEY", '"AIzaSyABZjnT53HSNmJiidCRM7u6V3GRG3WZY1M"'
+            buildConfigField "String", "IMAGE_URL", '"https://maps.googleapis.com/maps/api/place/photo?photoreference=%s&key=%s&maxheight=400"'
         }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             buildConfigField "String", "BASE_URL", '"https://maps.googleapis.com"'
-            buildConfigField "String", "API_KEY", '"AIzaSyBA07TnDutGHDHL5YPjLxZLTFgwy3aB3F8"'
+            buildConfigField "String", "API_KEY", '"AIzaSyABZjnT53HSNmJiidCRM7u6V3GRG3WZY1M"'
+            buildConfigField "String", "IMAGE_URL", '"https://maps.googleapis.com/maps/api/place/photo?photoreference=%s&key=%s&maxheight=400"'
         }
     }
 }
@@ -50,8 +57,8 @@ ext{
     kappuccino = '1.2.1'
     ui_automator = '2.2.0'
     androidx_test = '1.2.0'
-    play_service = "17.0.0"
-    places = '2.0.0'
+    play_service = '17.0.0'
+    lottie = '3.0.7'
 }
 
 dependencies {
@@ -67,7 +74,7 @@ dependencies {
     implementation "androidx.room:room-runtime:$room"
     implementation 'androidx.browser:browser:1.0.0'
     implementation "com.google.android.gms:play-services-maps:$play_service"
-    implementation "com.google.android.libraries.places:places:$places"
+    implementation "com.google.android.gms:play-services-location:$play_service"
     kapt "androidx.room:room-compiler:$room"
 
     implementation "org.koin:koin-androidx-scope:$koin"
@@ -84,6 +91,8 @@ dependencies {
 
     implementation "com.github.bumptech.glide:glide:$glide"
     kapt "com.github.bumptech.glide:compiler:$glide"
+
+    implementation "com.airbnb.android:lottie:$lottie"
 
     testImplementation "junit:junit:$junit"
     testImplementation "org.koin:koin-test:$koin"
