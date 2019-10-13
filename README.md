@@ -1,5 +1,5 @@
 # ibarra-location
-Ibarra Location is a small app that uses the API Places [Api Places](https://developers.google.com/places/web-service/search?hl=pt). I used the MVVM architecture with Koin dependency injection. Also, I created tests using Espresso and Kappuccino.
+Ibarra Location is a small app that uses the [Api Places](https://developers.google.com/places/web-service/search?hl=pt). I used the MVVM architecture with Koin dependency injection. Also, I created tests using Espresso and Kappuccino.
 
 ### Libs and Tools ###
 
