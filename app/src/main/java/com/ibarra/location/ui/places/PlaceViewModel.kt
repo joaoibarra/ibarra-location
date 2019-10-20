@@ -46,6 +46,7 @@ class PlaceViewModel(private val ibarraLocationApi: IbarraLocationApi,
                     .subscribeOn(Schedulers.io())
                     .doOnSubscribe { showProgress() }
                     .doOnSuccess{ hideProgress() }
+                    .doOnError { hideProgress() }
                     .delay(1000, TimeUnit.MILLISECONDS)
                     .subscribe({
                         error.postValue(false)
